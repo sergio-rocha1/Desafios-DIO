@@ -1,3 +1,5 @@
-# Repositório do Desafio de projeto Git/GitHub proposto pela Dio.me
+# Repositório para Projetos propostos pela DIO :books:
 
-Repositório criado para desafio do projeto.
+##### Projetos realizados na DIO:
+
+- Criação do primeiro repositório Git/GitHub (Repositório atual) :file_folder:
