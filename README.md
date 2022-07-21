@@ -1,4 +1,4 @@
-# Repositório para Projetos propostos pela DIO :books:
+# Repositório de projeto proposto pela DIO :books:
 
 ##### Projetos realizados na DIO:
 
